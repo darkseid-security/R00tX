@@ -1,6 +1,8 @@
 
 [R00tX]
 
+<img src="https://github.com/darkseid-security/R00tX/blob/main/img/R00tX2.png">
+
 PrivEsc Script
 
 Features
