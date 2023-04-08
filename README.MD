@@ -1,0 +1,24 @@
+
+[R00tX]
+
+PrivEsc Script
+
+Features
+============
+ + Checks if vulnerable to SUDO exploit CVE-2019-14287 if yes generates root shell
+ + Checks if Root account has No password set
+ + Checks current user permissions
+ + Checks SUID binaries
+ + Checks for Write Permissions 
+ + Gets current username
+ + Gets Kernal Version
+ + Gets OS name and verion
+ 
+TODO
+============
+ + Add more SUDO exploits
+ 
+RUN
+============
+ + python3 R00tX.py
+ + Compile with pyinstaller to run on Linux without python or that has coorama installed
