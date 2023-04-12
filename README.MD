@@ -26,5 +26,5 @@ TODO
  
 RUN
 ============
- + python3 R00tX.py
+ + python3 R00tX.py or ./R00tX on bin file
  + Compile with pyinstaller to run on Linux without python or colorama installed
