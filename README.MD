@@ -1,9 +1,11 @@
 
 [R00tX V1.1]
 
-PrivEsc Script
+PrivEsc Enumeration Script
 
 <img src="https://github.com/darkseid-security/R00tX/blob/main/img/R00tX2.png">
+
+PrivEsc Script
 
 Features
 ============
@@ -13,14 +15,16 @@ Features
  + Checks SUID binaries
  + Checks for Write Permissions 
  + Gets current username
- + Gets Kernal version
- + Gets OS name and version
+ + Gets Kernal Version
+ + Gets OS name and verion
  + Checks for any Cronjobs
  + List all users excluding service accounts
+ + Checks read access to SSH private key
  
 TODO
 ============
  + Add more SUDO exploits
+ + Check for Shadow file access
  
 RUN
 ============
