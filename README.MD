@@ -3,7 +3,7 @@
 
 PrivEsc Enumeration Script
 
-<img src="https://github.com/darkseid-security/R00tX/blob/main/img/R00tX2.png">
+<img src="https://github.com/darkseid-security/R00tX/blob/main/Screenshots/rootx3.png">
 
 PrivEsc Script
 
