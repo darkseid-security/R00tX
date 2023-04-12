@@ -22,8 +22,8 @@ Features
 TODO
 ============
  + Add more SUDO exploits
- + List Users in /etc/passwd<br>
-RUN
+ + List Users in /etc/passwd
+<br>RUN
 ============
  + python3 R00tX.py
  + Compile with pyinstaller to run on Linux without python or colorama installed
