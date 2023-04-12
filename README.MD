@@ -1,5 +1,7 @@
 
-[R00tX]
+[R00tX V1.1]
+
+PrivEsc Script
 
 <img src="https://github.com/darkseid-security/R00tX/blob/main/img/R00tX2.png">
 
@@ -15,12 +17,13 @@ Features
  + Gets current username
  + Gets Kernal Version
  + Gets OS name and verion
+ + Checks for any Cronjobs
  
 TODO
 ============
  + Add more SUDO exploits
- 
+ + List Users in /etc/passwd
 RUN
 ============
  + python3 R00tX.py
- + Compile with pyinstaller to run on Linux without python or that has coorama installed
+ + Compile with pyinstaller to run on Linux without python or colorama installed
