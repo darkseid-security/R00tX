@@ -20,11 +20,11 @@ Features
  + Checks for any Cronjobs
  + List all users excluding service accounts
  + Checks read access to SSH private key
+ + Checks for access to shadow file
  
 TODO
 ============
  + Add more SUDO exploits
- + Check for Shadow file access
  
 RUN
 ============
