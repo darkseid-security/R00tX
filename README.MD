@@ -5,8 +5,6 @@ PrivEsc Script
 
 <img src="https://github.com/darkseid-security/R00tX/blob/main/img/R00tX2.png">
 
-PrivEsc Script
-
 Features
 ============
  + Checks if vulnerable to SUDO exploit CVE-2019-14287 if yes generates root shell
@@ -18,11 +16,11 @@ Features
  + Gets Kernal Version
  + Gets OS name and verion
  + Checks for any Cronjobs
+ + List all users excluding service accounts
  
 TODO
 ============
  + Add more SUDO exploits
- + List Users in /etc/passwd
  
 RUN
 ============
