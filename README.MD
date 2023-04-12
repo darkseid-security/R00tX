@@ -1,5 +1,5 @@
 
-[R00tX V1.1]
+[R00tX V1.2]
 
 PrivEsc Enumeration Script
 
