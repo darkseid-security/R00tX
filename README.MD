@@ -20,7 +20,8 @@ Features
  + Checks for any Cronjobs
  + List all users excluding service accounts
  + Checks read access to SSH private key
- + Checks for access to shadow file
+ + Checks for access to the shadow file
+ + [*New Feature] Login to MYSQL as root with no passwd
  
 TODO
 ============
