@@ -5,8 +5,6 @@ PrivEsc Enumeration Script
 
 <img src="https://github.com/darkseid-security/R00tX/blob/main/Screenshots/rootx3.png">
 
-PrivEsc Script
-
 Features
 ============
  + Checks if vulnerable to SUDO exploit CVE-2019-14287 if yes generates root shell
