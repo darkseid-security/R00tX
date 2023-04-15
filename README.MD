@@ -20,6 +20,7 @@ Features
  + Checks read access to SSH private key
  + Checks for access to the shadow file
  + [*New Feature] Login to MYSQL as root with no passwd
+ + [*New Feature] List installed software packages 
  
 TODO
 ============
