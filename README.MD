@@ -13,7 +13,7 @@ Features
  + Checks SUID binaries
  + Checks for Write Permissions 
  + Gets current username
- + Gets Kernal Version
+ + Gets Kernel Version
  + Gets OS name and verion
  + Checks for any Cronjobs
  + List all users excluding service accounts
